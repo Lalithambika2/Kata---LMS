@@ -41,9 +41,8 @@ To ensure the functionality of the system, tests have been written using Python'
 
 You can run the tests locally by using the following command:
 
-```bash
-python -m unittest test_library.py
-
+      ```bash
+      python -m unittest test_library.py
 
 ## Example Output:
 ......
